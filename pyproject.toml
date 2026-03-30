@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-image-hold-last"
+description = "Image passthrough node that holds last value when upstream is bypassed"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/SeBL4RD/comfyui-image-hold-last"
+
+[tool.comfy]
+PublisherId = "TON_PUBLISHER_ID"
+DisplayName = "Image Hold Last"
