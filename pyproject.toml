@@ -9,5 +9,5 @@ dependencies = []
 Repository = "https://github.com/SeBL4RD/comfyui-image-hold-last"
 
 [tool.comfy]
-PublisherId = "TON_PUBLISHER_ID"
+PublisherId = "sebl4rd"
 DisplayName = "Image Hold Last"
