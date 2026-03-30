@@ -6,7 +6,7 @@ license = { file = "LICENSE" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/SeBL4RD/comfyui-image-hold-last"
+Repository = "https://github.com/SeBL4RD/Image-Hold_Last"
 
 [tool.comfy]
 PublisherId = "sebl4rd"
